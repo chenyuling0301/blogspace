@@ -15,5 +15,3 @@
 3.  Database Development and Application (C#, SQL).
 
 ## list
-中英文切换版面
-作品链接
