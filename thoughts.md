@@ -9,5 +9,5 @@ title: 心得感想
 
 这里是我的文章列表：
 
-- [post1](./post1.html)
-- [post2](./post2.html)
+- [post1](./posts/post1.html)
+- [post2](./posts/post2.html)
