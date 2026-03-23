@@ -15,4 +15,5 @@
 3.  Database Development and Application (C#, SQL).
 
 ## post
-[👉 心得感想](./thoughts.html)
+[👉 心得感想](./thoughts.html)  
+[👉 诗词摘抄](./poetry.html)
