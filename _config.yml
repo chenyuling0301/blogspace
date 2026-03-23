@@ -4,9 +4,3 @@ location: Guangzhou,CHINA
 #description:
 #show_downloads:
 theme: jekyll-theme-minimal
-
-nav:
-  - title: 首页
-    url: /
-  - title: 心得感想
-    url: /thoughts/
