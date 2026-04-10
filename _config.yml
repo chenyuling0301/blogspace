@@ -2,5 +2,6 @@ title: CHEN_yl
 logo: /images/Tom_Portrait.jpg
 location: Guangzhou,CHINA
 #description:
-#show_downloads:
+show_downloads: false
+is_project_page: false
 theme: jekyll-theme-minimal
